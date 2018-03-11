@@ -20,7 +20,7 @@ wpbackup:
   date_gmt: 2008-11-27 07:57:00 +0900
 ---
 
-{% youtube "https://youtu.be/W--f1giww3g" %}
+<https://youtu.be/W--f1giww3g>
 
 아카데미 졸업프로젝트로 제작한 Master & Puppets 게임 플레이 동영상
 길게만 느껴졌던 프로젝트가 끝났네요.
