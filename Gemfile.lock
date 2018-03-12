@@ -180,8 +180,6 @@ GEM
       jekyll (~> 3.3)
     jekyll-watch (1.5.1)
       listen (~> 3.0)
-    jekyll-youtube (1.0.0)
-      jekyll
     jemoji (0.8.1)
       activesupport (~> 4.0, >= 4.2.9)
       gemoji (~> 3.0)
@@ -236,7 +234,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll-youtube
 
 BUNDLED WITH
    1.16.1
