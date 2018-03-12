@@ -20,6 +20,7 @@ wpbackup:
   date_gmt: 2008-11-27 07:57:00 +0900
 ---
 
+<iframe width="640" height="360" src="https://www.youtube.com/embed/W--f1giww3g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <https://youtu.be/W--f1giww3g>
 
 아카데미 졸업프로젝트로 제작한 Master & Puppets 게임 플레이 동영상
