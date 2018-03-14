@@ -33,6 +33,11 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jemoji
+  - jekyll-redirect-from
+
+kramdown:
+  input: GFM
+  hard_wrap: true
 
 permalink: :year/:title
 
