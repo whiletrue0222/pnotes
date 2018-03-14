@@ -3,7 +3,8 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 # layout: home
-# 
+# 아래 html은 아래 링크에서 복붙. {{ content }} 만 삭제하고
+# https://github.com/jekyll/minima/blob/master/_layouts/home.html
 ---
 <div class="home">
   {%- if page.title -%}
