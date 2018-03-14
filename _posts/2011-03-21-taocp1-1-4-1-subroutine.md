@@ -1,11 +1,10 @@
 ---
-layout: post
-status: publish
 published: true
 title: TAOCP1 1.4.1 Subroutine
 categories:
 - 발표자료
-permalink: archives/79
+redirect_from:
+- archives/79
 wpbackup:
   author:
     display_name: whiletrue

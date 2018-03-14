@@ -1,6 +1,4 @@
 ---
-layout: post
-status: publish
 published: true
 title: SourceGear DiffMerge 설치 및 한글 폰트 문제
 categories:
@@ -9,7 +7,8 @@ tags:
 - DiffMerge
 - DiffMerge한글
 - MergeTool
-permalink: archives/97
+redirect_from:
+- archives/97
 wpbackup:
   author:
     display_name: whiletrue

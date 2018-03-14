@@ -1,6 +1,4 @@
 ---
-layout: post
-status: publish
 published: true
 title: portal system
 categories:
@@ -10,7 +8,8 @@ tags:
 - portal
 - portalsystem
 - frustum
-permalink: archives/113
+redirect_from:
+- archives/113
 wpbackup:
   author:
     display_name: whiletrue

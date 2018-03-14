@@ -1,6 +1,4 @@
 ---
-layout: post
-status: publish
 published: true
 title: Vacancy Introduction Video
 categories:
@@ -9,7 +7,8 @@ tags:
 - 3D
 - renderware
 - vacancy
-permalink: archives/18
+redirect_from:
+- archives/18
 wpbackup:
   author:
     display_name: whiletrue

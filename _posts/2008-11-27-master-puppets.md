@@ -1,11 +1,10 @@
 ---
-layout: post
-status: publish
 published: true
 title: Master &amp; Puppets
 categories:
 - 내 게임
-permalink: archives/70
+redirect_from:
+- archives/70
 wpbackup:
   author:
     display_name: whiletrue

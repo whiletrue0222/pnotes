@@ -1,11 +1,10 @@
 ---
-layout: post
-status: publish
 published: true
 title: Regex & Property Sheet - 아꿈사 시작발표
 categories:
 - 발표자료
-permalink: archives/146
+redirect_from:
+- archives/146
 wpbackup:
   author:
     display_name: whiletrue

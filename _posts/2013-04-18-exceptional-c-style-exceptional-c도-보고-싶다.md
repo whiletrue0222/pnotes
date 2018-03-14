@@ -1,11 +1,10 @@
 ---
-layout: post
-status: publish
 published: true
 title: Exceptional C++ Style - Exceptional C++도 보고 싶다.
 categories:
 - 책
-permalink: archives/181
+redirect_from:
+- archives/181
 wpbackup:
   author:
     display_name: whiletrue

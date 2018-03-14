@@ -1,11 +1,10 @@
 ---
-layout: post
-status: publish
 published: true
 title: Effective STL - 10년된 책이지만 여전히 유용하다
 categories:
 - 책
-permalink: archives/184
+redirect_from:
+- archives/184
 wpbackup:
   author:
     display_name: whiletrue

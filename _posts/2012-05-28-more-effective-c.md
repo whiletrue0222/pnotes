@@ -1,13 +1,12 @@
 ---
-layout: post
-status: publish
 published: true
 title: More Effective C++
 categories:
 - 책
 tags:
 - C++
-permalink: archives/135
+redirect_from:
+- archives/135
 wpbackup:
   author:
     display_name: whiletrue

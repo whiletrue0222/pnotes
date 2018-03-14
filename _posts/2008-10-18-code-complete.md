@@ -1,11 +1,10 @@
 ---
-layout: post
-status: publish
 published: true
 title: code complete..
 categories:
 - 책
-permalink: archives/66
+redirect_from:
+- archives/66
 wpbackup:
   author:
     display_name: whiletrue
