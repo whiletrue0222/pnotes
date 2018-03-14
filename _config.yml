@@ -27,7 +27,8 @@ github_username:  whiletrue0222
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
   - jekyll-sitemap
