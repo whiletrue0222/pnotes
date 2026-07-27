@@ -6,9 +6,7 @@ gem "jekyll-theme-hacker", "~> 0.2"
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.17"
   gem "jekyll-sitemap", "~> 1.4"
-  gem "jekyll-gist", "~> 1.5"
   gem "jekyll-redirect-from", "~> 0.16"
-  gem "jemoji", "~> 0.13"
   # 테마 레이아웃이 site.github.* 를 참조한다 (푸터, CSS 캐시 버스팅).
   gem "jekyll-github-metadata", "~> 2.16"
 end
@@ -19,5 +17,5 @@ gem "kramdown-parser-gfm", "~> 1.1"
 # Ruby 3.0 부터 webrick 이 표준 라이브러리에서 빠져서 `jekyll serve` 에 필요하다.
 gem "webrick", "~> 1.9"
 
-# jekyll-gist 가 쓰는 octokit/faraday 의 retry 미들웨어 경고를 없앤다.
+# jekyll-github-metadata 가 쓰는 octokit/faraday 의 retry 미들웨어 경고를 없앤다.
 gem "faraday-retry", "~> 2.3"

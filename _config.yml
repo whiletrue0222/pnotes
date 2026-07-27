@@ -32,8 +32,6 @@ theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-gist
-  - jemoji
   - jekyll-redirect-from
   - jekyll-github-metadata
 
