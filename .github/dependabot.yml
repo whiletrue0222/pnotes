@@ -1,0 +1,15 @@
+version: 2
+updates:
+  # Jekyll 및 플러그인 (Gemfile)
+  - package-ecosystem: bundler
+    directory: "/"
+    schedule:
+      interval: monthly
+    open-pull-requests-limit: 5
+
+  # 배포 워크플로가 쓰는 액션들
+  - package-ecosystem: github-actions
+    directory: "/"
+    schedule:
+      interval: monthly
+    open-pull-requests-limit: 5

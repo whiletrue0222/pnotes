@@ -35,12 +35,29 @@ plugins:
   - jekyll-gist
   - jemoji
   - jekyll-redirect-from
+  - jekyll-github-metadata
 
 kramdown:
   input: GFM
   hard_wrap: true
 
 permalink: :year/:title
+repository: whiletrue0222/pnotes
+timezone: Asia/Seoul
+
+# 클래식 GitHub Pages 빌드가 테마 레이아웃을 자동으로 씌워줬기 때문에 포스트 front matter
+# 에는 layout 이 없다. 순정 Jekyll 은 주입해주지 않으므로 여기서 기본값을 지정한다.
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  # 포스트는 테마의 post 레이아웃을 쓴다. 날짜/제목/태그 블록이 여기에 있다.
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -49,6 +66,9 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+  - SECURITY.md
+  - mise.toml
+  - vendor
 #   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/

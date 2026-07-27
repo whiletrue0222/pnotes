@@ -167,7 +167,7 @@ tkinter로는 뭔가 부족하고 안 이쁘다.
 [VSCode]: https://code.visualstudio.com/
 [PyCharm]: https://www.jetbrains.com/pycharm/
 [Git for Windows]: https://gitforwindows.org/
-[hello-jekyll]: {{ site.baseurl }}{% post_url 2018-03-14-hello-jekyll %}
+[hello-jekyll]: {% post_url 2018-03-14-hello-jekyll %}
 
 [//]: <> (이미지)
 [python-logo]: https://lh3.googleusercontent.com/7SU0tS6FDAcX9QBwr00Rl6mlJlbaCdLKEumecuVP5xR3fUW2XOCPEF-gqBjEm1-Qp-6nv3AiVptSQZ2zmnPCwY7hloj52WVW9KT8YBYH76q7GdY44uUUy4nHrnqU1ud18U1fLGqZXA1sfNcNFuPBSunlyo5vPZulckzvwneLmL5zk2UaeklSQVN3k-ADLVlYwVf_m2SMZFMbf_i87LTSKR191dIu5Yq6QGc24zKTl66TPajzglBh6aAgInp5D4p7AUwfWYPfc7jvhTFBCSgMbrwxb0QVGDAAdiPMqrc_duD39yAzYQM4gJVoVQV_cmloXAW-VFeb76CJv61TYJO-uPP5Qo4-o03WPlU5XLJLE3abOlK6XFiZQrgaa7HaTU52Qm2600X3yBj9voZwRaKGClamh820U3K2fd6f7gAUAPgBburmbcsaNxhGjVKzCfPFGztfG0LphNDZ6199grIzSCfCdrq7WqT3aZvVwnkT6wSBcW986DYK6IlohacZT0O2QnwLvg3y-U5-hVT0flvlQitk6yaCeIK2XTtX3xwrYoaTWoZkkrUrlN40VbExDGdLxPv92iFURvKD3iEIZUv6YSzYHKQ5EFBAgehtc4fonPhpkKvwMhNGfPSatYir1embFP9PncjrxUqPHRWfZ3gJDG7z6nWzqcZ39A=w290-h82-no
